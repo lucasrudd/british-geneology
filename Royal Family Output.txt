@@ -1,0 +1,73 @@
+
+Ancestors
+
+Albert is the ancestor of: Edward VII
+Edward VII is the ancestor of: George V
+George V is the ancestor of: Edward VIII
+George V is the ancestor of: George VI
+George VI is the ancestor of: Elizabeth II
+Victoria is the ancestor of: Edward VII
+Alexandra of Denmark is the ancestor of: George V
+Mary of Teck is the ancestor of: Edward VIII
+Mary of Teck is the ancestor of: George VI
+Elizabeth Bowes-Lyon is the ancestor of: Elizabeth II
+Albert is the ancestor of: George V
+Victoria is the ancestor of: George V
+Edward VII is the ancestor of: Edward VIII
+Alexandra of Denmark is the ancestor of: Edward VIII
+Albert is the ancestor of: Edward VIII
+Victoria is the ancestor of: Edward VIII
+Edward VII is the ancestor of: George VI
+Alexandra of Denmark is the ancestor of: George VI
+Albert is the ancestor of: George VI
+Victoria is the ancestor of: George VI
+George V is the ancestor of: Elizabeth II
+Mary of Teck is the ancestor of: Elizabeth II
+Edward VII is the ancestor of: Elizabeth II
+Alexandra of Denmark is the ancestor of: Elizabeth II
+Albert is the ancestor of: Elizabeth II
+Victoria is the ancestor of: Elizabeth II
+
+Decendants
+
+Edward VII is the decendant of: Albert
+George V is the decendant of: Edward VII
+Edward VIII is the decendant of: George V
+George VI is the decendant of: George V
+Elizabeth II is the decendant of: George VI
+Edward VII is the decendant of: Victoria
+George V is the decendant of: Alexandra of Denmark
+Edward VIII is the decendant of: Mary of Teck
+George VI is the decendant of: Mary of Teck
+Elizabeth II is the decendant of: Elizabeth Bowes-Lyon
+George V is the decendant of: Albert
+Edward VIII is the decendant of: Albert
+George VI is the decendant of: Albert
+Elizabeth II is the decendant of: Albert
+Edward VIII is the decendant of: Edward VII
+George VI is the decendant of: Edward VII
+Elizabeth II is the decendant of: Edward VII
+Elizabeth II is the decendant of: George V
+George V is the decendant of: Victoria
+Edward VIII is the decendant of: Victoria
+George VI is the decendant of: Victoria
+Elizabeth II is the decendant of: Victoria
+Edward VIII is the decendant of: Alexandra of Denmark
+George VI is the decendant of: Alexandra of Denmark
+Elizabeth II is the decendant of: Alexandra of Denmark
+Elizabeth II is the decendant of: Mary of Teck
+
+Spouse
+
+Victoria is the wife of: Albert
+Alexandra of Denmark is the wife of: Edward VII
+Mary of Teck is the wife of: George V
+Elizabeth Bowes-Lyon is the wife of: George VI
+Elizabeth II is the wife of: Philip Duke of Edinburgh
+
+Siblings
+
+Edward VIII is the sibling of: George VI
+George VI is the sibling of: Edward VIII
+Edward VIII is the sibling of: George VI
+George VI is the sibling of: Edward VIII
